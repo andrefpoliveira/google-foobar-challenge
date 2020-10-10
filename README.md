@@ -5,3 +5,6 @@
 
 ### LEVEL 1
 * [Solar Doomsday](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%201/Solar%20Doomsday)
+
+### LEVEL 2
+* [Bunny Prisioner Locating](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%202/Bunny%20Prisioner%20Locating)
