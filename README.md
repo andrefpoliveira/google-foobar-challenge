@@ -9,3 +9,7 @@
 ### LEVEL 2
 * [Bunny Prisioner Locating](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%202/Bunny%20Prisioner%20Locating)
 * [Elevator Maintenance](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%202/Elevator%20Maintenance)
+
+### Level 3
+* [Doomsday Fuel](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%203/Doomsday%20Fuel)
+* [Fuel Injection Perfection](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%203/Fuel%20Injection%20Perfection)
