@@ -7,7 +7,7 @@ They give us an Integer, the area, and we must return a list that contains all t
 ## How to find the squares
 Using the example given: `solution(12)`
 
-The biggest square we could create is a $\sqrt{12}$ by $\sqrt{12}$ square.
+The biggest square we could create is a `sqrt(12)` by `sqrt(12)` square.
 
 IMAGE
 
