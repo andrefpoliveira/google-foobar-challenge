@@ -17,3 +17,7 @@
 
 ### Level 4
 * [Running with Bunnies](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%204/Running%20with%20Bunnies)
+* [Free the Bunny Prisioners](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%204/Free%20the%20Bunny%20Prisioners)
+
+### Level 5
+* [Disorderly Escape](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%205/Disorderly%20Escape)
