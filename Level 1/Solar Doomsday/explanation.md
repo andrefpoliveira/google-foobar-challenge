@@ -7,9 +7,11 @@ They give us an Integer, the area, and we must return a list that contains all t
 ## How to find the squares
 Using the example given: `solution(12)`
 
-The biggest square we could create is a `sqrt(12)` by `sqrt(12)` square.
+<p align="center">
+  <img src="https://github.com/andrefpoliveira/google-foobar-challenge/blob/main/Level%201/Solar%20Doomsday/level1.gif">
+</p>
 
-IMAGE
+The biggest square we could create is a `sqrt(12)` by `sqrt(12)` square.
 
 However, `sqrt(12) = 3.464`. This is not an Integer! We must round this up.
 
