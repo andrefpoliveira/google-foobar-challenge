@@ -3,6 +3,8 @@
 ## What is Google Foobar Challenge?
 [Google Foobar Challenge](https://foobar.withgoogle.com/) is Google's secret recruiting process embedded within their search engine. There are 5 levels, each with a different number of challenges that follow a story (9 on total).
 
+It was a fun challenge where it forced me to learn some new theorems and review some old ones that I completely forgot!
+
 ### LEVEL 1
 * [Solar Doomsday](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%201/Solar%20Doomsday)
 
@@ -21,3 +23,17 @@
 
 ### Level 5
 * [Disorderly Escape](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%205/Disorderly%20Escape)
+
+## The end
+* [Decrypting Code](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/The%20End)  
+At the end, you receive and encryted text just like this one:
+```GkkXBwZNAxofTlBfDlcOHBEOWkhASVEGBh4NBA8DBwAJRlNMThUWWhUMAxELCUNMThMDDx0TFR1D Ul8OQQACCgIAShkLAhFIAk9LCBUNABcXBAMBHBEJRlNMTgULQh8KBRELCUNMTgQECxAIFR1DUl8O QRoNDxVCAlBOCBsACU9WSVESABxARhM=```
+
+Because of the `=` sign at the end I thought of base64 encryption. I just needed to find the key... 🤔  
+There was a line at the end saying `For *your* eyes only!`... Well what could it be...  
+The key was my username on the challenge: `andre.filipe.pinto.oliveira`!
+
+After decrypting the message you get:
+```{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}```
+
+You can still request for a new challenge at the end what is great 🤩
