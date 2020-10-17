@@ -45,6 +45,7 @@ Output:
     19
 ```
 ### Python cases
+```
 Input:
 solution.solution('77')
 Output:
