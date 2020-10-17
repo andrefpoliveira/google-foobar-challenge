@@ -26,6 +26,7 @@ It was a fun challenge where it forced me to learn some new theorems and review 
 
 ## The end
 * [Decrypting Code](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/The%20End)  
+
 At the end, you receive and encryted text just like this one:
 ```GkkXBwZNAxofTlBfDlcOHBEOWkhASVEGBh4NBA8DBwAJRlNMThUWWhUMAxELCUNMThMDDx0TFR1D Ul8OQQACCgIAShkLAhFIAk9LCBUNABcXBAMBHBEJRlNMTgULQh8KBRELCUNMTgQECxAIFR1DUl8O QRoNDxVCAlBOCBsACU9WSVESABxARhM=```
 
