@@ -23,6 +23,7 @@ It was a fun challenge where it forced me to learn some new theorems and review 
 
 ### Level 5
 * [Disorderly Escape](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%205/Disorderly%20Escape)
+* [Dodge the Lasers! (Post-Game)](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%205/Dodge%20the%20Lasers!)
 
 ## The end
 * [Decrypting Code](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/The%20End)  
