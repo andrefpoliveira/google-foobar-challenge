@@ -3,7 +3,7 @@
 ## What is Google Foobar Challenge?
 [Google Foobar Challenge](https://foobar.withgoogle.com/) is Google's secret recruiting process embedded within their search engine. There are 5 levels, each with a different number of challenges that follow a story (9 on total).
 
-It was a fun challenge where it forced me to learn some new theorems and review some old ones that I completely forgot!
+It was a fun challenge that made me learn some new theorems and review some old ones that I completely forgot!
 
 ### LEVEL 1
 * [Solar Doomsday](https://github.com/andrefpoliveira/google-foobar-challenge/tree/main/Level%201/Solar%20Doomsday)
